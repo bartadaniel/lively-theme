@@ -1,7 +1,7 @@
-.theme-plugin-light-mode {
+.theme-plugin-lively-mode {
   --theme-page: #edf4f5;
-  --theme-page-text: #3b4559;
-  --theme-page-text-light: #9ea7bc;
+  --theme-page-text: #2e2e2e;
+  --theme-page-text-light: #2e2e2ead;
   --theme-page-instructions-text: #3b4559;
   --theme-page-instructions-background: rgba(200,200,200,0.4);
   --theme-modal: #ffffff;
@@ -9,17 +9,17 @@
   --theme-intro-gradient-1: rgba(255,255,255,0);
   --theme-intro-gradient-2: rgba(255,255,255,0.95);
 
-  --theme-header-text: #2b3748;
+  --theme-header-text: black;
   --theme-caption-text: #000;
   --theme-caption-read: #8795a1;
   --theme-announcements-gradient-1: rgba(255,255,255,0);
   --theme-announcements-gradient-2: rgba(255,255,255,0.95);
 
-  --theme-line-separator: #dae1e7;
+  --theme-line-separator: #afaeae;
   --theme-wallet-overview-border: #dae1e7;
 
   --theme-table-row-hover: #f8f9fd;
-  --theme-transaction-sent: #fef4f5;
+  --theme-transaction-sent: #ff5252;
   --theme-transaction-sent-arrow: #e51317;
   --theme-transaction-received: #e3fcec;
   --theme-transaction-received-arrow: #2db761;
@@ -39,24 +39,24 @@
   --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
 
   --theme-feature: white;
-  --theme-feature-item-text: #c0cddf;
-  --theme-feature-item-hover: #fef4f5;
+  --theme-feature-item-text: #3b4559;
+  --theme-feature-item-hover: #ff5252;
   --theme-feature-item-alternative: #f0f2f9;
   --theme-feature-item-alternative-text: #8b9bab;
-  --theme-feature-item-hover-text: #e6b1b5;
-  --theme-feature-item-selected: #fef4f5;
-  --theme-feature-item-selected-text: #ce6970;
-  --theme-feature-item-indicator: #f03643;
+  --theme-feature-item-hover-text: white;
+  --theme-feature-item-selected: #ff5252;
+  --theme-feature-item-selected-text: white;
+  --theme-feature-item-indicator: white;
 
   --theme-secondary-feature: #f7f9fb;
 
-  --theme-button-special-choice: #e78068;
+  --theme-button-special-choice: #ff5252;
 
   --theme-heading-background: #343956;
   --theme-heading-text: #c0cddf;
 
-  --theme-chart-background: #f8fafc;
-  --theme-chart-price: #3b4559;
+  --theme-chart-background: white;
+  --theme-chart-price: #2e2e2e;
 
   --theme-button: #e0f0fd;
   --theme-button-active: #c5dbed;
