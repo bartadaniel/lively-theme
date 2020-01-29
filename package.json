@@ -1,13 +1,12 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@daniel.barta/lively-wallet-template",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Lively ARK Dekstop Wallet Theme",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Daniel Barta",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Lively Theme",
     "categories": [
       "theme"
     ],
@@ -24,14 +23,14 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Daniel Barta"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/bartadaniel/lively-theme/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/bartadaniel/lively-theme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/bartadaniel/lively-theme.git"
   }
 }
